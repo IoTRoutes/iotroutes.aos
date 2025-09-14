@@ -20,6 +20,7 @@ Automated analytics and reporting
 AI-driven actions
 
 **IoTRoutes Application Objset Server AOS**
+
  IoTRoutes is a platform designed to receive IoT messages from devices and route them to various internal processes or external systems. Through configurable workflows rich in predefined actions, internal processes perform conversion, interpretation, analysis, alerting, report or document generation, and execution of actions such as sending commands to devices or data to internal or external APIs.
 
 **IoTRoutes Web Client**
