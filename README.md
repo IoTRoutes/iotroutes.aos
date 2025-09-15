@@ -1,3 +1,5 @@
+_This repository contains binaries releases for IoTRoutes platform server ._
+
 **Introduction**
 
 IoTRoutes is an IoT platform designed to efficiently manage and route messages in connected object environments. 
